@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="accentColor">#F3C980</color>
+    <color name="backgroundColor">#F5F5F5</color>
+    <color name="black">#FF000000</color>
+    <color name="borderColor">#CCCCCC</color>
+    <color name="buttonColor">#be29ec</color>
+    <color name="buttonTextColor">#FFFFFF</color>
+    <color name="cardBackgroundColor">#FFFFFF</color>
+    <color name="dividerColor">#E0E0E0</color>
+    <color name="errorColor">#D32F2F</color>
+    <color name="iconColor">#660066</color>
+    <color name="notificationColor">#FFD54F</color>
+    <color name="primaryColor">#800080</color>
+    <color name="primaryDarkColor">#be29ec</color>
+    <color name="successColor">#4CAF50</color>
+    <color name="textAccent">#F3C980</color>
+    <color name="textPrimary">#FF000000</color>
+    <color name="textSecondary">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">luxevista</string>
+    <string name="gcm_defaultSenderId" translatable="false">881342498938</string>
+    <string name="google_api_key" translatable="false">AIzaSyDXfMOtl5heiC_4tfz04Wj4d2i-zsr9ook</string>
+    <string name="google_app_id" translatable="false">1:881342498938:android:39acd41bad541b1fa393c3</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDXfMOtl5heiC_4tfz04Wj4d2i-zsr9ook</string>
+    <string name="google_storage_bucket" translatable="false">luxevistahotelbooking.firebasestorage.app</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="project_id" translatable="false">luxevistahotelbooking</string>
+    <style name="Base.Theme.Luxevista" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="Theme.Luxevista" parent="Base.Theme.Luxevista"/>
+</resources>
